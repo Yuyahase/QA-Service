@@ -49,9 +49,8 @@ body
 
 hr
 {
-	
-	border-color: #B90091;
-	border: solid 1px #B90091;
+	border-color: #55c500;
+	border: solid 1px #55c500;
 	margin-top:5px;
 	margin-bottom: 10px;
 }
@@ -111,7 +110,7 @@ margin-bottom:15px;
 }
 .m-navbar
 {
-	background-color: #B90091;
+	background-color: #55c500;
 	border-color: #e7e7e7;
 	color: white;
 }
@@ -123,23 +122,23 @@ margin-bottom:15px;
 .navbar-default .navbar-nav > .open > a:hover,
  .navbar-default .navbar-nav > .open > a:focus
 {
-	background-color: #B90091;
+	background-color: #55c500;
 	color: white;
 }
 
 .nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
     color: #fff;
-    background-color: #B90091;
+    background-color: #55c500;
 }
 
 .label-main {
-    background-color: #B90091;
+    background-color: #55c500;
     padding: 8px;
 }
 .panel-default > .panel-heading 
  {
     color: #fff;
-    background-color: #B90091;
+    background-color: #55c500;
     border-color: #ddd;
 }
 pagination > .active > a, .pagination > .active > span,
@@ -168,7 +167,7 @@ pagination > .active > a, .pagination > .active > span,
 
 .dropdown-menu
 {
-	background-color: #B90091;
+	background-color: #55c500;
 	border-color: #e7e7e7;
 	
 }
@@ -178,7 +177,7 @@ pagination > .active > a, .pagination > .active > span,
 }
 .navbar-default .navbar-nav > .active > a
 {
-	background-color: #B90091;
+	background-color: #55c500;
 }
 ul
 {
